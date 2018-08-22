@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sql7253095",
+    "password": "NSLpRSapEd",
+    "database": "sql7253095",
+    "host": "sql7.freemysqlhosting.net",
+    "dialect": "mysql"
+  },
+  "test": {
+   "username": "sql7253095",
+    "password": "NSLpRSapEd",
+    "database": "sql7253095",
+    "host": "sql7.freemysqlhosting.net",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sql7253095",
+    "password": "NSLpRSapEd",
+    "database": "sql7253095",
+    "host": "sql7.freemysqlhosting.net",
+    "dialect": "mysql"
+  }
+}
